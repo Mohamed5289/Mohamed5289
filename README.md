@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2F4086801%2Fcover_image%2Fretina_500x200%2Fcover-0219-The10MistakesC-Waldek_img-8ca2c91addbb7cb72649b02f5cdf7a16.png"  />
+  <img height="400" src="https://raw.githubusercontent.com/mohamedshawky70/Profile/refs/heads/main/Dot.Net.png"  />
 </div>
 
 ###
